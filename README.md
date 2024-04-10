@@ -72,9 +72,29 @@
 
 ---
 
-`> This is a blockquote.`markdown
+`> This is a blockquote.`
 > This is a blockquote.
 
-\`Inline code`markdown
+\`Inline code\`
 `Inline code`
 
+\```
+This is a codeblock.
+\```
+
+```markdown
+This is a codeblock.
+```
+
+---
+
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell 1   | Cell 2   |
+
+~~Strikethrough~~
+
+- [ ] Task 1
+- [x] Task 2 (completed)
+
+To display Markdown characters as plain text without formatting, use a backslash \ before the Markdown character you want to block.
