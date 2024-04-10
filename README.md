@@ -63,10 +63,14 @@
 ```markdown
 [Link text](URL)
 
+[Link text](URL){:target="_blank"} # To open link in new tab.
+
 ![Alt text](Image_URL)
 ```
 
 [Link text](https://0v3rr1de0.github.io/Markdown-guide/)
+
+[Link text](https://0v3rr1de0.github.io/Markdown-guide/){:target="_blank"} `Opens in a new tab`
 
 ![Alt text](https://royalarcadenorwich.co.uk/wp-content/uploads/2017/07/150x150.png)
 
