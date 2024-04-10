@@ -55,9 +55,14 @@
 
 ---
 
+```
 [Link text](URL)
 
 ![Alt text](Image_URL)
+```
+[Link text](https://0v3rr1de0.github.io/Markdown-guide/)
+
+![Alt text](https://royalarcadenorwich.co.uk/wp-content/uploads/2017/07/150x150.png)
 
 > This is a blockquote.
 
